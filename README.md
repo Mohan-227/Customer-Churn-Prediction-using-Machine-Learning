@@ -2,12 +2,6 @@
 Builds an end-to-end machine learning pipeline to predict telecom customer churn. Includes data preprocessing, model training (Logistic Regression &amp; Random Forest), and evaluation.
 
 
-# 📊 Customer Churn Prediction using Machine Learning
-
-This project is built to demonstrate an end-to-end machine learning pipeline that predicts whether a customer will churn (leave a service provider). It aligns with responsibilities and skills required for AI Engineer Intern roles, such as those at NeoStats Analytics.
-
----
-
 ## 🚀 Project Overview
 
 Churn prediction is a common real-world problem faced by telecom and subscription-based companies. Retaining existing customers is often more cost-effective than acquiring new ones. This project uses a publicly available dataset to classify whether a customer is likely to churn or not based on their usage patterns and demographic information.
