@@ -7,7 +7,6 @@ Builds an end-to-end machine learning pipeline to predict telecom customer churn
 Churn prediction is a common real-world problem faced by telecom and subscription-based companies. Retaining existing customers is often more cost-effective than acquiring new ones. This project uses a publicly available dataset to classify whether a customer is likely to churn or not based on their usage patterns and demographic information.
 
 ---
-
 ## 📦 Features
 
 - Data Cleaning & Preprocessing
